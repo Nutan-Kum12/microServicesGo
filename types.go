@@ -1,5 +1,5 @@
 package main
 
-type Catfact struct {
+type CatFact struct {
 	Fact string `json:"fact"`
 }
